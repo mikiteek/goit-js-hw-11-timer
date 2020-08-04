@@ -1,0 +1,21 @@
+.container {
+  width: 400px;
+  padding-top: 50px;
+  margin-left: 100px;
+}
+
+.timer,
+.field {
+  display: flex;
+}
+.timer {
+  justify-content: space-between;
+}
+
+.field {
+  flex-direction: column;
+}
+.value {
+  font-size: 30px;
+  font-weight: bold;
+}

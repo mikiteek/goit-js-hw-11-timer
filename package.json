@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mikiteek/webpack-assembly.git"
+    "url": "git+https://github.com/mikiteek/goit-js-hw-11-timer.git"
   },
   "keywords": [],
   "author": "Sergey Mikiteek <mikiteek@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mikiteek/webpack-assembly/issues"
+    "url": "https://github.com/mikiteek/goit-js-hw-11-timer/issues"
   },
-  "homepage": "https://github.com/mikiteek/webpack-assembly#readme",
+  "homepage": "https://github.com/mikiteek/goit-js-hw-11-timer#readme",
   "devDependencies": {
     "@babel/core": "^7.8.7",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
