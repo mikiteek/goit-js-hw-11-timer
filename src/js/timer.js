@@ -25,9 +25,9 @@ class CountdownTimer {
   }
 
   onTimer() {
+    this.updateClockface(this.targetDate - Date.now());
     setInterval(() => {
-      const deltaTime = this.targetDate - Date.now();
-      this.updateClockface(deltaTime);
+      this.updateClockface(this.targetDate - Date.now());
     }, 1000);
   }
   updateClockface(time) {
